@@ -22,6 +22,7 @@ import android.preference.PreferenceManager;
  */
 @SuppressLint("NewApi")
 public class AppConfig {
+	
 
 	private final static String APP_CONFIG = "config";
 
