@@ -21,4 +21,4 @@
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	android:fromXDelta="100%p"
 	android:toXDelta="0"
-	android:duration="325" /><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/anim/gd_rack.xml -->
+	android:duration="325" /><!-- From: file:/G:/git/test-master/china-app/res/anim/gd_rack.xml -->

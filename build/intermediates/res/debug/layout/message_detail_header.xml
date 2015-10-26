@@ -34,4 +34,4 @@
 	   	android:clickable="true" 
 	   	android:background="@drawable/head_refresh"
 		android:visibility="gone"/>
-</FrameLayout><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/layout/message_detail_header.xml -->
+</FrameLayout><!-- From: file:/G:/git/test-master/china-app/res/layout/message_detail_header.xml -->

@@ -9,4 +9,4 @@
 	<item android:duration="100" android:drawable="@drawable/loading_5" />
 	<item android:duration="100" android:drawable="@drawable/loading_6" />
 	<item android:duration="100" android:drawable="@drawable/loading_7" />
-</animation-list> <!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/anim/loading.xml -->
+</animation-list> <!-- From: file:/G:/git/test-master/china-app/res/anim/loading.xml -->

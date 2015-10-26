@@ -149,4 +149,4 @@
 	    android:layout_alignRight="@+id/login_scrollview" 
 	    android:layout_alignTop="@+id/login_scrollview"
 	    android:background="@drawable/login_close_button"  />
-</RelativeLayout><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/layout/login_dialog.xml -->
+</RelativeLayout><!-- From: file:/G:/git/test-master/china-app/res/layout/login_dialog.xml -->

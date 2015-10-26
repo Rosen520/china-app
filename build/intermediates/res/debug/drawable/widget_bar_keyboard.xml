@@ -4,4 +4,4 @@
     <item android:state_enabled="true" android:drawable="@drawable/widget_bar_keyboard_nor" />
     <item android:state_enabled="false" android:drawable="@drawable/widget_bar_keyboard_over" />
     <item android:drawable="@drawable/widget_bar_keyboard_nor" />
-</selector><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/drawable/widget_bar_keyboard.xml -->
+</selector><!-- From: file:/G:/git/test-master/china-app/res/drawable/widget_bar_keyboard.xml -->

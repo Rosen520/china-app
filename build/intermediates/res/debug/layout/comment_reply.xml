@@ -9,4 +9,4 @@
 		android:layout_height="wrap_content"
 		android:textSize="@dimen/text_size_13"
 		android:textColor="@color/black"/>
-</LinearLayout><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/layout/comment_reply.xml -->
+</LinearLayout><!-- From: file:/G:/git/test-master/china-app/res/layout/comment_reply.xml -->

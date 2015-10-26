@@ -6,4 +6,4 @@
     <item android:state_pressed="true" android:color="@color/bright_foreground_light" />
     <item android:state_selected="true" android:color="@color/bright_foreground_light" />
     <item android:color="@color/bright_foreground_light" />
-</selector><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/color/primary_text_light.xml -->
+</selector><!-- From: file:/G:/git/test-master/china-app/res/color/primary_text_light.xml -->

@@ -8,4 +8,4 @@
 	android:textColor="#ffffffff" 
 	android:gravity="left|center" 
 	android:background="@drawable/frame_button_p" 
-	android:paddingLeft="10.0dip" /><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/layout/preference_category.xml -->
+	android:paddingLeft="10.0dip" /><!-- From: file:/G:/git/test-master/china-app/res/layout/preference_category.xml -->

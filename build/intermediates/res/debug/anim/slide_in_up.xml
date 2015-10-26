@@ -2,4 +2,4 @@
 <translate xmlns:android="http://schemas.android.com/apk/res/android"
 	android:interpolator="@android:anim/decelerate_interpolator" 
 	android:duration="@android:integer/config_shortAnimTime" 
-	android:fromYDelta="50.0%p" android:toYDelta="0.0"/><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/anim/slide_in_up.xml -->
+	android:fromYDelta="50.0%p" android:toYDelta="0.0"/><!-- From: file:/G:/git/test-master/china-app/res/anim/slide_in_up.xml -->

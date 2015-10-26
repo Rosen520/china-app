@@ -62,4 +62,4 @@
 	    android:layout_alignRight="@+id/feedback_scrollview" 
 	    android:layout_alignTop="@+id/feedback_scrollview"
 	    android:background="@drawable/login_close_button"  />
-</RelativeLayout><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/layout/feedback.xml -->
+</RelativeLayout><!-- From: file:/G:/git/test-master/china-app/res/layout/feedback.xml -->

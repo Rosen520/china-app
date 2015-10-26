@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-app（开源中国）.iml" filepath="$PROJECT_DIR$/android-app（开源中国）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/china-app.iml" filepath="$PROJECT_DIR$/china-app.iml" />
     </modules>
   </component>
 </project>

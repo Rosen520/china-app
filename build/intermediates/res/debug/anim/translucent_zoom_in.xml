@@ -7,4 +7,4 @@
       	android:fromYScale="0.5" android:toYScale="1.0" />
     <alpha android:duration="@android:integer/config_shortAnimTime"
       	android:fromAlpha="0.0" android:toAlpha="1.0" />
-</set><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/anim/translucent_zoom_in.xml -->
+</set><!-- From: file:/G:/git/test-master/china-app/res/anim/translucent_zoom_in.xml -->

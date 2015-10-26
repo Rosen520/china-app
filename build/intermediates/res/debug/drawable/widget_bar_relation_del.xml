@@ -5,4 +5,4 @@
     <item android:state_enabled="true" android:drawable="@drawable/widget_bar_relation_del_n" />
     <item android:state_enabled="false" android:drawable="@drawable/widget_bar_relation_del_p" />
     <item android:drawable="@drawable/widget_bar_relation_del_n" />
-</selector><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/drawable/widget_bar_relation_del.xml -->
+</selector><!-- From: file:/G:/git/test-master/china-app/res/drawable/widget_bar_relation_del.xml -->

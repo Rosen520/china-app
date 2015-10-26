@@ -2,4 +2,4 @@
 <ImageView xmlns:android="http://schemas.android.com/apk/res/android" 
 	android:layout_width="wrap_content" 
 	android:layout_height="wrap_content" 
-	android:src="@drawable/pref_icon_more"/><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/layout/preference_icon_more.xml -->
+	android:src="@drawable/pref_icon_more"/><!-- From: file:/G:/git/test-master/china-app/res/layout/preference_icon_more.xml -->

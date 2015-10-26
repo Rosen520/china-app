@@ -35,4 +35,4 @@
 		android:toAlpha="1.0"
 		android:duration="@android:integer/config_shortAnimTime" />
 
-</set><!-- From: file:/C:/Users/Administrator/Desktop/项目/hehe/hha/android-app（开源中国）/res/anim/gd_grow_from_topright_to_bottomleft.xml -->
+</set><!-- From: file:/G:/git/test-master/china-app/res/anim/gd_grow_from_topright_to_bottomleft.xml -->
